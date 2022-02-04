@@ -1,2 +1,2 @@
-float32 kp
-float32 xd
+float64 kp
+float64 xd
